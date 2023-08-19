@@ -2,9 +2,9 @@
 Ini adalah dokumentasi saya tentang belajar Java Collection
 
 Materi ajar:
-•	Pengenalan Collection
-•	Iterable dan Iterator
-•	Collection
+•	Pengenalan Collection v
+•	Iterable dan Iterator v
+•	Collection v
 •	List
 •	Immutable List
 •	Set
