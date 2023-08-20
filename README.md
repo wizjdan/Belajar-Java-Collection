@@ -5,13 +5,13 @@ Materi ajar:
 •	Pengenalan Collection v
 •	Iterable dan Iterator v
 •	Collection v
-•	List
-•	Immutable List
-•	Set
-•	Immutable Set
-•	SortedSet
-•	NavigableSet
-•	Queue
+•	List v
+•	Immutable List v
+•	Set v
+•	Immutable Set v
+•	SortedSet v
+•	NavigableSet v
+•	Queue v
 •	Deque
 •	Map
 •	Immutable Map
