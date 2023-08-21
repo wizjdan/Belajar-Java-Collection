@@ -12,12 +12,12 @@ Materi ajar:
 •	SortedSet v
 •	NavigableSet v
 •	Queue v
-•	Deque
-•	Map
-•	Immutable Map
-•	SortedMap
-•	NavigableMap
-•	Entry Map
+•	Deque v 
+•	Map v 
+•	Immutable Map v 
+•	SortedMap v
+•	NavigableMap v
+•	Entry Map v
 •	Legacy Collection
 •	Sorting
 •	Binary Search
