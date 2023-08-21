@@ -5,6 +5,9 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 
 //Materi Queue
+/*
+Mendukung FIFO (First In First Out)
+ */
 public class QueueApp {
     public static void main(String[] args) {
         System.out.println("Contoh 1");
