@@ -18,11 +18,11 @@ Materi ajar:
 •	SortedMap v
 •	NavigableMap v
 •	Entry Map v
-•	Legacy Collection
-•	Sorting
-•	Binary Search
-•	Collections Class
-•	Abstract Collection
-•	Default Method
-•	Spliterator
-•	Konversi ke Array
+•	Legacy Collection v
+•	Sorting v
+•	Binary Search v
+•	Collections Class v
+•	Abstract Collection v
+•	Default Method v
+•	Spliterator v
+•	Konversi ke Array v
